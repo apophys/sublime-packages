@@ -10,7 +10,7 @@
             "platforms" : {
                 "*" : {
                     "version" : "0.9.0",
-                    "url" : "https://github.com/apophys/SublimeManpage/zipball/master"
+                    "url" : "https://nodeload.github.com/apophys/SublimeManpage/zipball/master"
                 }
             }
         }
