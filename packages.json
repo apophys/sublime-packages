@@ -1,0 +1,19 @@
+{
+    "schema_version" : "1.2",
+    "packages" : [
+        {
+            "name" : "Sublime Manpage",
+            "description" : "",
+            "author" : "",
+            "homepage" : "",
+            "last_modyfied" : "",
+            "platforms" : {
+                "*" : {
+                    "version" : "",
+                    "url" : ""
+                }
+            }
+        }
+    ]
+
+}
