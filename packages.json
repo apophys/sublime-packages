@@ -2,7 +2,7 @@
     "schema_version" : "1.2",
     "packages" : [
         {
-            "name" : "Sublime Manpage",
+            "name" : "Manpage View",
             "description" : "Simple manual page viewer",
             "author" : "Milan Kubik (@apophys)",
             "homepage" : "https://github.com/apophys/SublimeManpage",
