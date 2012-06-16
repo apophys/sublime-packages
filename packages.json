@@ -8,10 +8,12 @@
             "homepage" : "https://github.com/apophys/SublimeManpage",
             "last_modified" : "2012-06-07 22:00:00",
             "platforms" : {
-                "*" : {
-                    "version" : "0.9.0",
-                    "url" : "https://nodeload.github.com/apophys/SublimeManpage/zipball/master"
-                }
+                "*" : [
+                    {
+                        "version" : "0.9.0",
+                        "url" : "https://nodeload.github.com/apophys/SublimeManpage/zipball/master"
+                    }
+                ]
             }
         }
     ]
