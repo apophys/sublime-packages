@@ -6,11 +6,11 @@
             "description" : "Simple manual page viewer",
             "author" : "Milan Kubik (@apophys)",
             "homepage" : "https://github.com/apophys/SublimeManpage",
-            "last_modified" : "2012-11-21 00:12:00",
+            "last_modified" : "2012-11-21 00:57:00",
             "platforms" : {
                 "*" : [
                     {
-                        "version" : "0.9.1",
+                        "version" : "0.9.2",
                         "url" : "https://nodeload.github.com/apophys/SublimeManpage/zipball/master"
                     }
                 ]
