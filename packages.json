@@ -5,8 +5,7 @@
             "details" : "https://github.com/apophys/SublimeManpage",
             "releases" : [
                 {
-                    "sublime_text" : "2",
-                    "platforms" : "*",
+                    "sublime_text" : "<3000",
                     "details" : "https://github.com/apophys/SublimeManpage/tags"
                 }
             ]
